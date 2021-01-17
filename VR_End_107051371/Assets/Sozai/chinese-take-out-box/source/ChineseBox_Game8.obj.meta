@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 0e7a8b9a2feaf40628c8a848b712c197
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box4_polySurface10_polySurface6Mat
+    second: {fileID: 2100000, guid: b19dae9464ba04db19842970a49a0d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chopstick11Mat
+    second: {fileID: 2100000, guid: c5679615c751143e09e82dc20efd6bf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chopstick12Mat
+    second: {fileID: 2100000, guid: d4cd9c908773a44eb91391cb3ad12e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane1Mat
+    second: {fileID: 2100000, guid: 8f6043943c10440a685b23730406ea67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane2Mat
+    second: {fileID: 2100000, guid: af2b7282767eb46a5ad678b1fc677db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane3Mat
+    second: {fileID: 2100000, guid: 836aaefd2aaa044a8abbcce9cd70c9d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice23Mat
+    second: {fileID: 2100000, guid: 321a3da5f7fdc454c90ce670311ac8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice24Mat
+    second: {fileID: 2100000, guid: 083334a80186a4810b969352288d9f46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice25Mat
+    second: {fileID: 2100000, guid: 8e51b40a22b984e078a580d7d63084b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice26Mat
+    second: {fileID: 2100000, guid: 2e01a03ea0ea249f09202d85b4017de5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice27Mat
+    second: {fileID: 2100000, guid: 8e60bb8890f2c484389b81483cd67901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice28Mat
+    second: {fileID: 2100000, guid: 1202c8105d18e4f7e8d14322f4ae08f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice29Mat
+    second: {fileID: 2100000, guid: 20c98877a9b874ae4a1353bb254d66f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice30Mat
+    second: {fileID: 2100000, guid: 6278a160b84d64017b6406fbff292a99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice31Mat
+    second: {fileID: 2100000, guid: 8f3df855adf7545069817d3c0dbfc91b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice32Mat
+    second: {fileID: 2100000, guid: eafaeaa864b07438f8430db3d8fb38e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice33Mat
+    second: {fileID: 2100000, guid: d7aeb4c67ecbc49aea3ef3ce686db10e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice34Mat
+    second: {fileID: 2100000, guid: b3d54c264adff42229ae767bd133e16f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice35Mat
+    second: {fileID: 2100000, guid: a71f156bc2a154a69b3576ed966a874c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice36Mat
+    second: {fileID: 2100000, guid: 696f7d24ddcd046df8bea2de4f5ce823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice37Mat
+    second: {fileID: 2100000, guid: f04d4fc081cb8401ba728027ddacd890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice38Mat
+    second: {fileID: 2100000, guid: e7488958ceb9d4905b247038f2ba1d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice39Mat
+    second: {fileID: 2100000, guid: fc7bfcca09d4b4b9bb81e84d68d1d007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice40Mat
+    second: {fileID: 2100000, guid: 7c9f7dffc71154622bd88f956839249f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice41Mat
+    second: {fileID: 2100000, guid: bc533b971db3f4c319c618caa2f8696e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice42Mat
+    second: {fileID: 2100000, guid: 6925015aff0ef4b65b950c55d094b58a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice43Mat
+    second: {fileID: 2100000, guid: fad3e9cc8dd0b4deab2c88cb4693f917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice44Mat
+    second: {fileID: 2100000, guid: 61e9b33d187ec40cc8baa1195b36ed59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rice45Mat
+    second: {fileID: 2100000, guid: 77278072282654becaf9b787b08dc483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire4Mat
+    second: {fileID: 2100000, guid: cb026fcc917244f9286d5a0601ae3591, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

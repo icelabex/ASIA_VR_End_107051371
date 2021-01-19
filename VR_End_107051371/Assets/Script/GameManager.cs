@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("Stage");
     }
 
-    public void QuitGame()
+   public void QuitGame()
     {
         Application.Quit();
     }
